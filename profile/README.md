@@ -43,8 +43,6 @@ https://qudditch.dawoony.com
 
 ### 💡 화면 구성 (주요)
 
-### 💡 개선 목표
-![image](https://github.com/SSG-Golden-Snitch/.github/assets/149459170/358bb059-aa9f-4209-b09f-d740d4d10998)
 
 ### 💡 스택
 
