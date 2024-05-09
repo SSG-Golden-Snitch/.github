@@ -1,12 +1,58 @@
-## Hi there 👋
+## 배포 주소
+https://qudditch.dawoony.com
 
-<!--
+## 💡 프로젝트 소개
+- 무인편의점 관리시스템
+- 최근 무인 매장 운영이 증가, 효율적인 운영을 위한 재고 관리 시스템과 편리한 매장 이용 환경의 중요성이 높아지고 있다.
+- 고객과 점주에게 제공하는 서비스
+  - <b>고객</b>
+    - 매장 출입 : QR코드 또는 안면인식을 이용한 매장 출입
+    - 매장 찾기 / 재고찾기 : 주변 매장 찾기 + 실시간 재고 확인
+    - 챗봇 : 음성검색
+    - 결제하기 : QR코드를 이용한 결제
+    - 관심상품, 단골점포 : 관심상품, 단골점포 등록
+    - 알림 : 재입고 알림 신청한 제품 입고시 알림 서비스
+    - 상품 추천 : 출입 시 표정을 기반한 감정 확인을 통해 상품 추천
+  - <b>점주</b>
+    - 방문자 수 : 일별, 월별 방문자 수 그래프를 통한 조회
+    - 매출 : 일별, 월별 매출 그래프를 통한 조회
+    - 판매 제품 순위 : 많이 팔린 제품 순위 + 발주 추천
+    - 재고 현황 : 실시간 반영 재고 현황 + 유통기한 임박상품 확인
+    - 입고 : 입고 상품 등록 및 관리
+    - 폐기 : 폐기 물품 등록
+    - 발주 : 발주 등록 및 발주 물품 추천
+    - 히스토리 : 입고, 출고, 발주 내역서 조회
+  - <b>관리자</b>
+    - 점포 발주 승인 및 입고처리
+    - 전체 매출, 방문자 및 유저의 정보를 이용한 통계 조회
 
-**Here are some ideas to get you started:**
+ 
+### 💡 순서도
+- 고객
+![image](https://github.com/SSG-Golden-Snitch/.github/assets/149459170/3fbd5413-5a0e-441c-a018-73f681fa96fd)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 점주
+![image](https://github.com/SSG-Golden-Snitch/.github/assets/149459170/d59c62e6-63a6-47a9-97ec-ea223a22a942)
+
+- 관리자
+![image](https://github.com/SSG-Golden-Snitch/.github/assets/149459170/915affe0-f9b9-49e1-aff8-84e922374a7c)
+
+### 💡 서버 아키텍쳐
+![image](https://github.com/SSG-Golden-Snitch/.github/assets/149459170/5a6a0fc3-d1ac-4d58-850b-cee3b4cdac8c)
+
+
+### 💡 화면 구성 (주요)
+
+### 💡 개선 목표
+![image](https://github.com/SSG-Golden-Snitch/.github/assets/149459170/358bb059-aa9f-4209-b09f-d740d4d10998)
+
+### 💡 스택
+
+### 💡 팀원
+한다운(L)  
+김진선  
+김현준  
+박준상  
+배규원   
+신민찬  
+정원민
